@@ -1,0 +1,16 @@
+{
+    "acknowledge": 0.014,
+    "architec": 0.01,
+    "cite": 0.002,
+    "contrib": 0.014,
+    "index": 0.009,
+    "input": 0.288,
+    "installation": 0.014,
+    "source/index": 0.015,
+    "source/installation": 0.004,
+    "source/usage": 0.018,
+    "theory": 0.013,
+    "tutorial1": 0.02,
+    "tutorials": 0.002,
+    "usage": 0.032
+}
